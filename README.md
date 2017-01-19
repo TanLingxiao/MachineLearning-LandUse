@@ -1,8 +1,7 @@
 # MachineLearning&LandUse
 　　随着学习材料的增多，我们试图以一种简便有效的方式将相关材料整理汇总，以便进一步研究。下面的材料是近一段时间以来关于机器学习及其在遥感图像的应用的方面的论文和代码材料汇总。
 
-With the increasing in learning materials, we tried to sort out the relevant materials in a simple and effective manner for further study. The following material is a collection of recent papers and code materials on machine learning and its applications in remote sensing images.
-
+With the increasing of learning material, we are trying to have a simple and effective way to collect related materials for further study. The following materials is something about machine learning and its application of remote sensing image papers and source code recently.
 ***
 
 ### 本项目的参与者(Collaborators)：
